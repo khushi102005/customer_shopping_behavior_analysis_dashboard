@@ -1,4 +1,4 @@
-# customer_shopping_behavior_analysis_dashboard
+# Customer Shopping Behavior Analysis Dashboard
 📊 Customer Shopping Behavior Analysis
 
 📌 Overview
